@@ -1,0 +1,6 @@
+# 聚合支付-聚合支付系统/三方支付系统/手机支付/支付宝微信
+
+主体功能<br>对接上游通道实现在线上支付<br>拉起支付宝微信支付<br>多通道<br>一键关闭 一键切换上游通道<br>新增功能<br>example.com，提交订单冻结相同金额到锁定余额，订单确认后从锁定余额扣款<br>example.com.商户可以在后台手动导入代付订单和回调地址，并允许该订单正常回调<br>example.com<br>example.com.新增代付系统允许单独设置商户单笔固定金额手续费<br>example.com<br>example.com<br>example.com，提高订单支付过程中支付密码的安全性<br>example.com，手机银行转卡支付界面<br>安全设计<br>1、系统传输MD5加密<br>2、重要敏感操作，均需特定验证具体方式不在此场景说明<br>3、历史登陆IP及地址检测，有异常及时发现处理<br>4、重要信息自动加密隐藏，如代付订单信息<br>注意事项<br>本系统为提供一站式支付服务。通过一点接入完成线上、线下全渠道收款。<br>只卖源码不开户。只卖源码不开户无通道。只卖源码不开户无通道，找通道的勿扰。<br>可联系我测试程序<br>前台接口程序对接开发及api对接价格可联系我详谈<br>您的信任与支持是我们持续提供更好更完美的程序前提！<br>环境：nginx+example.com+example.com<br>-------------------------------------------------------------------------------------------------------------------<br>拍前必看：本店所售程序只供测试研究，不得使用于非法用途，不得违反国家法律，不得用于进行违法行为，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！拍下自动默认同意本店条款！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/ZasuB" style="color: red;">https://mega-file.org/ZasuB</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
